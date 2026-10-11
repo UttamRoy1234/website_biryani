@@ -1,0 +1,16 @@
+{
+  "name": "Dum & Co. — Premium Artisanal Handi Biryani",
+  "short_name": "Dum & Co.",
+  "description": "Slow-cooked. Soul-approved. Authentic clay handi dum biryani delivered hot in sealed terracotta pots.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFAF2",
+  "theme_color": "#B82F22",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

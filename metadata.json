@@ -1,0 +1,6 @@
+{
+  "name": "Dum & Co. — Premium Biryani Ordering Platform",
+  "description": "Slow-cooked. Soul-approved. Premium artisanal handi biryani ordering platform with direct ordering, real-time tracking, and restaurant operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

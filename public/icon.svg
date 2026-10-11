@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#B82F22"/>
+  <circle cx="256" cy="256" r="180" fill="#9B2418" opacity="0.4"/>
+  <!-- Terracotta Clay Handi -->
+  <path d="M156 220 C156 180, 356 180, 356 220 C380 270, 380 340, 330 380 C290 410, 222 410, 182 380 C132 340, 132 270, 156 220 Z" fill="#D36B46" stroke="#87351A" stroke-width="8"/>
+  <!-- Wheat Dough Purdah Seal -->
+  <ellipse cx="256" cy="216" rx="98" ry="24" fill="#F4D396" stroke="#D2A054" stroke-width="6"/>
+  <!-- Clay Pot Rim & Lid -->
+  <ellipse cx="256" cy="204" rx="70" ry="16" fill="#C25A38" stroke="#87351A" stroke-width="5"/>
+  <circle cx="256" cy="188" r="14" fill="#E7AA45"/>
+  <!-- Golden Saffron Embers -->
+  <path d="M210 140 Q225 110 215 80 Q235 110 210 140 Z" fill="#E7AA45" opacity="0.8"/>
+  <path d="M256 130 Q270 95 260 65 Q280 95 256 130 Z" fill="#E7AA45" opacity="0.9"/>
+  <path d="M302 140 Q315 110 305 80 Q325 110 302 140 Z" fill="#E7AA45" opacity="0.8"/>
+</svg>
